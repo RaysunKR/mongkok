@@ -1,6 +1,7 @@
 # Mongkok AI Agent
 
 一个全能AI Agent，用户可以通过飞书与这个AI Agent沟通，该Agent通过调用本地安装的Claude Code SDK满足用户的需求。
+完全使用AI实现，包括这个README.md文档。
 
 ## 功能特性
 
@@ -201,6 +202,4 @@ mongkok_agent/
 
 MIT License
 
-## 联系方式
 
-如有问题，请提交Issue。
