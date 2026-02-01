@@ -1,0 +1,53 @@
+{
+  "feishu": {
+    "app_id": "",
+    "app_secret": "",
+    "encrypt_key": "",
+    "verification_token": "",
+    "bot_name": "",
+    "server_port": 8080,
+    "host": "0.0.0.0"
+  },
+  "claude": {
+    "cli_path": "",
+    "model": "Pro/zai-org/GLM-4.7",
+    "timeout_seconds": 120
+  },
+  "security": {
+    "allowed_users": [],
+    "rate_limit": {
+      "enabled": true,
+      "max_requests_per_minute": 30,
+      "max_requests_per_hour": 200
+    },
+    "content_filter": {
+      "enabled": true,
+      "blocked_keywords": []
+    },
+    "command_whitelist": [],
+    "command_blacklist": ["rm -rf /", "mkfs", "dd if=", "> /dev/"]
+  },
+  "capabilities": {
+    "document_generation": true,
+    "web_browsing": true,
+    "program_development": true,
+    "auto_install": true
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/agent.log",
+    "max_size_mb": 10,
+    "backup_count": 5
+  },
+  "storage": {
+    "data_dir": "data",
+    "temp_dir": "temp",
+    "uploads_dir": "uploads"
+  },
+  "advanced": {
+    "auto_package_install": true,
+    "search_method_automatically": true,
+    "max_retries": 3,
+    "timeout_seconds": 60
+  }
+}

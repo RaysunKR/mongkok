@@ -1,0 +1,31 @@
+# Mongkok AI Agent 依赖包列表
+
+# 注意：需要先安装 Claude Code CLI
+# 参考: https://docs.anthropic.com/en/docs/build-with-claude/claude-for-developers
+
+# 飞书SDK
+lark-oapi<=1.5.3
+
+# Web服务器框架
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# 网络请求
+aiohttp>=3.9.0
+requests>=2.31.0
+
+# HTML解析
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# 文档生成
+markdown>=3.5.0
+python-docx>=1.1.0
+reportlab>=4.0.0
+
+# 模板引擎
+jinja2>=3.1.0
+
+# 其他工具
+python-dotenv>=1.0.0

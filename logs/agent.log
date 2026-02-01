@@ -1,0 +1,1784 @@
+2026-02-01 21:47:05 - Main - INFO - ==================================================
+2026-02-01 21:47:05 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 21:47:05 - Main - INFO - 版本: 1.0.0
+2026-02-01 21:47:05 - Main - INFO - ==================================================
+2026-02-01 21:47:06 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 21:47:06 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 21:51:33 - Main - INFO - ==================================================
+2026-02-01 21:51:33 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 21:51:33 - Main - INFO - 版本: 1.0.0
+2026-02-01 21:51:33 - Main - INFO - ==================================================
+2026-02-01 21:51:34 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 21:51:34 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 21:51:34 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 21:51:34 - PackageInstaller - INFO - 正在安装包: lark-oapi
+2026-02-01 21:51:34 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - PackageInstaller - INFO - 正在安装包: anthropic
+2026-02-01 21:51:34 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - PackageInstaller - INFO - 正在安装包: fastapi
+2026-02-01 21:51:34 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - PackageInstaller - INFO - 正在安装包: uvicorn
+2026-02-01 21:51:34 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - PackageInstaller - INFO - 正在安装包: aiohttp
+2026-02-01 21:51:34 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - PackageInstaller - INFO - 正在安装包: beautifulsoup4
+2026-02-01 21:51:34 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - PackageInstaller - INFO - 正在安装包: markdown
+2026-02-01 21:51:34 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - PackageInstaller - INFO - 正在安装包: python-docx
+2026-02-01 21:51:34 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - PackageInstaller - INFO - 正在安装包: reportlab
+2026-02-01 21:51:34 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - PackageInstaller - INFO - 正在安装包: jinja2
+2026-02-01 21:51:34 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:51:34 - FeishuBot - INFO - 启动飞书机器人服务: 0.0.0.0:8080
+2026-02-01 21:52:33 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 21:52:33 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 21:52:33 - FeishuBot - INFO - 停止飞书机器人服务
+2026-02-01 21:52:33 - Main - INFO - 程序已关闭
+2026-02-01 21:57:27 - Main - INFO - ==================================================
+2026-02-01 21:57:27 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 21:57:27 - Main - INFO - 版本: 1.0.0
+2026-02-01 21:57:27 - Main - INFO - ==================================================
+2026-02-01 21:57:28 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 21:57:28 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 21:57:28 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 21:57:28 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 21:57:28 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 21:57:28 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 21:57:28 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 21:57:28 - PackageInstaller - INFO - 正在安装包: lark-oapi
+2026-02-01 21:57:28 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:28 - PackageInstaller - INFO - 正在安装包: websockets
+2026-02-01 21:57:28 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:28 - PackageInstaller - INFO - 正在安装包: fastapi
+2026-02-01 21:57:28 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:28 - PackageInstaller - INFO - 正在安装包: uvicorn
+2026-02-01 21:57:28 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:28 - PackageInstaller - INFO - 正在安装包: aiohttp
+2026-02-01 21:57:28 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:28 - PackageInstaller - INFO - 正在安装包: beautifulsoup4
+2026-02-01 21:57:28 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:28 - PackageInstaller - INFO - 正在安装包: markdown
+2026-02-01 21:57:28 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:28 - PackageInstaller - INFO - 正在安装包: python-docx
+2026-02-01 21:57:29 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - PackageInstaller - INFO - 正在安装包: reportlab
+2026-02-01 21:57:29 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - PackageInstaller - INFO - 正在安装包: jinja2
+2026-02-01 21:57:29 - PackageInstaller - ERROR - 安装包失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - AgentOrchestrator - INFO - 安装失败: /home/RaysunKR/Code/mongkok/mongkok_agent/.venv/bin/python3: No module named pip
+
+2026-02-01 21:57:29 - FeishuBot - INFO - ==================================================
+2026-02-01 21:57:29 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 21:57:29 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 21:57:29 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 21:57:29 - FeishuBot - INFO - ==================================================
+2026-02-01 21:57:29 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:04:23 - Main - INFO - ==================================================
+2026-02-01 22:04:23 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:04:23 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:04:23 - Main - INFO - ==================================================
+2026-02-01 22:04:24 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:04:24 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:04:24 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:04:24 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:04:24 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:04:24 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:04:24 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:04:24 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:04:25 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:04:25 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:04:25 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:04:25 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:04:25 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:04:25 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:04:25 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:04:25 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:04:25 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:04:25 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:04:25 - FeishuBot - INFO - ==================================================
+2026-02-01 22:04:25 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:04:25 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:04:25 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:04:25 - FeishuBot - INFO - ==================================================
+2026-02-01 22:04:25 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:04:25 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:04:25 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:04:25 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:04:32 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:04:32 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:04:55 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:04:55 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:04:55 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:04:55 - Main - INFO - 程序已关闭
+2026-02-01 22:05:11 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:12 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:13 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:13 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:13 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:13 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:14 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:14 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:14 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:14 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:14 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:15 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:15 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:15 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:15 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:15 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:16 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:16 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:16 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:16 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:16 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:05:53 - Main - INFO - ==================================================
+2026-02-01 22:05:53 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:05:53 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:05:53 - Main - INFO - ==================================================
+2026-02-01 22:05:54 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:05:54 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:05:54 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:05:54 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:05:54 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:05:54 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:05:54 - FeishuBot - INFO - ==================================================
+2026-02-01 22:05:54 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:05:54 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:05:54 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:05:54 - FeishuBot - INFO - ==================================================
+2026-02-01 22:05:54 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:05:54 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:05:54 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:05:54 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:08:48 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:51 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:53 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:53 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:53 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:53 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:54 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:54 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:54 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:08:54 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:08:54 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:08:54 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:08:54 - Main - INFO - 程序已关闭
+2026-02-01 22:08:58 - Main - INFO - ==================================================
+2026-02-01 22:08:58 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:08:58 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:08:58 - Main - INFO - ==================================================
+2026-02-01 22:08:59 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:08:59 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:08:59 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:08:59 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:08:59 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:08:59 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:08:59 - FeishuBot - INFO - ==================================================
+2026-02-01 22:08:59 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:08:59 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:08:59 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:08:59 - FeishuBot - INFO - ==================================================
+2026-02-01 22:11:40 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:48 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:48 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:49 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:49 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:49 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:49 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:49 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:50 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:50 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:50 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:50 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:50 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:51 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:51 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:51 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:51 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:51 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:53 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:11:53 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:12:17 - Main - INFO - ==================================================
+2026-02-01 22:12:17 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:12:17 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:12:17 - Main - INFO - ==================================================
+2026-02-01 22:12:18 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:12:18 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:12:18 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:12:18 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:12:18 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:12:18 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:12:18 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:12:18 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:12:19 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:12:19 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:12:19 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:12:19 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:12:19 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:12:19 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:12:19 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:12:19 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:12:19 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:12:19 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:12:19 - FeishuBot - INFO - ==================================================
+2026-02-01 22:12:19 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:12:19 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:12:19 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:12:19 - FeishuBot - INFO - ==================================================
+2026-02-01 22:16:21 - Main - INFO - ==================================================
+2026-02-01 22:16:21 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:16:21 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:16:21 - Main - INFO - ==================================================
+2026-02-01 22:16:22 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:16:22 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:16:22 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:16:22 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:16:22 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:16:22 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:16:22 - FeishuBot - INFO - ==================================================
+2026-02-01 22:16:22 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:16:22 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:16:22 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:16:22 - FeishuBot - INFO - ==================================================
+2026-02-01 22:16:22 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:16:22 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:16:22 - FeishuBot - INFO - P1 事件处理器注册完成
+2026-02-01 22:16:22 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:16:22 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1']
+2026-02-01 22:16:22 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:16:22 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:16:22 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:16:22 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:16:34 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:16:34 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:16:52 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:16:52 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:16:52 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:16:52 - Main - INFO - 程序已关闭
+2026-02-01 22:18:02 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:18:21 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:18:22 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:18:22 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:18:22 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:19:06 - Main - INFO - ==================================================
+2026-02-01 22:19:06 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:19:06 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:19:06 - Main - INFO - ==================================================
+2026-02-01 22:19:07 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:19:07 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:19:07 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:19:07 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:19:07 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:19:07 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:19:07 - FeishuBot - INFO - ==================================================
+2026-02-01 22:19:07 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:19:07 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:19:07 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:19:07 - FeishuBot - INFO - ==================================================
+2026-02-01 22:19:07 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:19:07 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:19:07 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:19:07 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:19:07 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:19:07 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1']
+2026-02-01 22:19:07 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:19:07 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:19:07 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:19:07 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:19:13 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:19:13 - FeishuBot - ERROR - 处理P2消息事件失败: 'CustomizedEvent' object has no attribute 'get_event'
+Traceback (most recent call last):
+  File "/home/RaysunKR/Code/mongkok/mongkok_agent/modules/feishu_bot.py", line 154, in _handle_message_event_p2
+    event_dict = json.loads(event.get_event())
+                            ^^^^^^^^^^^^^^^
+AttributeError: 'CustomizedEvent' object has no attribute 'get_event'
+2026-02-01 22:20:43 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:20:52 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:20:53 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:20:53 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:20:53 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:21:09 - Main - INFO - ==================================================
+2026-02-01 22:21:09 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:21:09 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:21:09 - Main - INFO - ==================================================
+2026-02-01 22:21:10 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:21:10 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:21:10 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:21:10 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:21:10 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:21:10 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:21:10 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:21:10 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:21:11 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:21:11 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:21:11 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:21:11 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:21:11 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:21:11 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:21:11 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:21:11 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:21:11 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:21:11 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:21:11 - FeishuBot - INFO - ==================================================
+2026-02-01 22:21:11 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:21:11 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:21:11 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:21:11 - FeishuBot - INFO - ==================================================
+2026-02-01 22:21:11 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:21:11 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:21:11 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:21:11 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:21:11 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:21:11 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1']
+2026-02-01 22:21:11 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:21:11 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:21:11 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:21:11 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:21:17 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:21:17 - FeishuBot - INFO - P2事件schema: 2.0, header.event_type: im.message.receive_v1
+2026-02-01 22:21:17 - FeishuBot - INFO - P2事件数据: {
+  "message": {
+    "chat_id": "oc_43a6c29f82126fb41c9f5444db36d28a",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"明天合肥什么天气\"}",
+    "create_time": "1769955676866",
+    "message_id": "om_x100b58c25b0648a4b3845a6def36f65",
+    "message_type": "text",
+    "update_time": "1769955676866",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.86 Safari/537.36 Lark/7.41.5 LarkLocale/zh_CN ttnet SDK-Version/7.41.16"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_8865a079940bcc8ac4597cdecd130075",
+      "union_id": "on_fdaa42b2e5b397d0b2cff56879d4a05f",
+      "user_id": "e8f3ga38"
+    },
+    "sender_type": "user",
+    "tenant_key": "1b6bafba8650d740"
+  }
+}
+2026-02-01 22:21:17 - FeishuBot - INFO - P2消息详情 - 类型: text, 发送者ID: e8f3ga38, 消息ID: om_x100b58c25b0648a4b3845a6def36f65, 聊天ID: oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:21:17 - FeishuBot - INFO - P2检查用户权限: e8f3ga38
+2026-02-01 22:21:17 - FeishuBot - INFO - 权限检查通过
+2026-02-01 22:21:17 - FeishuBot - INFO - P2检查速率限制: e8f3ga38
+2026-02-01 22:21:17 - FeishuBot - INFO - 速率限制检查通过
+2026-02-01 22:21:17 - FeishuBot - INFO - P2解析消息内容, message_type: text
+2026-02-01 22:21:17 - FeishuBot - INFO - P2消息内容: (空)
+2026-02-01 22:21:17 - FeishuBot - INFO - P2查找处理器 - 消息类型: text, 使用处理器: default
+2026-02-01 22:21:17 - FeishuBot - INFO - P2异步调用消息处理器
+2026-02-01 22:21:17 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:21:17 - AgentOrchestrator - INFO - 处理用户消息 - chat_id: oc_43a6c29f82126fb41c9f5444db36d28a, sender_id: e8f3ga38, message_id: om_x100b58c25b0648a4b3845a6def36f65
+2026-02-01 22:21:17 - AgentOrchestrator - INFO - 消息内容: 
+2026-02-01 22:21:17 - AgentOrchestrator - INFO - 当前对话历史长度: 0
+2026-02-01 22:21:17 - AgentOrchestrator - INFO - 发送'正在分析'提示消息
+2026-02-01 22:21:17 - FeishuBot - ERROR - 发送消息异常: 'CreateMessageRequestBuilder' object has no attribute 'body'
+2026-02-01 22:21:17 - AgentOrchestrator - INFO - 开始任务分析
+2026-02-01 22:21:17 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下任务，确定需要使用的工具和执行步骤：
+
+任务：
+
+请以JSON格式返回分析结果，包含以下字段：
+- task_type: 任务类型 (document_generation, web_brow...
+2026-02-01 22:21:18 - ClaudeClient - ERROR - Claude Code执行失败: error: unknown option '--no-prompt'
+
+2026-02-01 22:21:18 - AgentOrchestrator - INFO - 任务分析结果: {'task_type': 'general', 'required_tools': [], 'steps': ['理解任务', '生成回答']}
+2026-02-01 22:21:18 - AgentOrchestrator - INFO - 分析成功: True
+2026-02-01 22:21:18 - AgentOrchestrator - INFO - 开始执行任务
+2026-02-01 22:21:18 - AgentOrchestrator - INFO - 执行任务 - 类型: general, 工具: []
+2026-02-01 22:21:18 - AgentOrchestrator - INFO - 处理通用查询
+2026-02-01 22:21:18 - ClaudeClient - INFO - 执行Claude Code命令: ...
+2026-02-01 22:21:19 - ClaudeClient - ERROR - Claude Code执行失败: error: unknown option '--no-prompt'
+
+2026-02-01 22:21:19 - FeishuBot - ERROR - 发送消息异常: 'CreateMessageRequestBuilder' object has no attribute 'body'
+2026-02-01 22:21:19 - AgentOrchestrator - INFO - 任务执行结果 - 成功: False
+2026-02-01 22:21:19 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:24:26 - Main - INFO - ==================================================
+2026-02-01 22:24:26 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:24:26 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:24:26 - Main - INFO - ==================================================
+2026-02-01 22:24:27 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:24:27 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:24:27 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:24:27 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:24:27 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:24:27 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:24:27 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:24:27 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:24:28 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:24:28 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:24:28 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:24:28 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:24:28 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:24:28 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:24:28 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:24:28 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:24:28 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:24:28 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:24:28 - FeishuBot - INFO - ==================================================
+2026-02-01 22:24:28 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:24:28 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:24:28 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:24:28 - FeishuBot - INFO - ==================================================
+2026-02-01 22:24:28 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:24:28 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:24:28 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:24:28 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:24:28 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:24:28 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1']
+2026-02-01 22:24:28 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:24:28 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:24:28 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:24:28 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:24:45 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:24:45 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:24:58 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:24:58 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:24:58 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:24:58 - Main - INFO - 程序已关闭
+2026-02-01 22:25:13 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:25:14 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:25:14 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:25:14 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:25:14 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:25:36 - Main - INFO - ==================================================
+2026-02-01 22:25:36 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:25:36 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:25:36 - Main - INFO - ==================================================
+2026-02-01 22:25:37 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:25:37 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:25:37 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:25:37 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:25:37 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:25:37 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:25:37 - FeishuBot - INFO - ==================================================
+2026-02-01 22:25:37 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:25:37 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:25:37 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:25:37 - FeishuBot - INFO - ==================================================
+2026-02-01 22:25:37 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:25:37 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:25:37 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:25:37 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:25:37 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:25:37 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1']
+2026-02-01 22:25:37 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:25:37 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:25:37 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:25:37 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:25:43 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:25:43 - FeishuBot - INFO - P2事件schema: 2.0, header.event_type: im.message.receive_v1
+2026-02-01 22:25:43 - FeishuBot - INFO - P2事件数据: {
+  "message": {
+    "chat_id": "oc_43a6c29f82126fb41c9f5444db36d28a",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"明天合肥什么天气\"}",
+    "create_time": "1769955942687",
+    "message_id": "om_x100b58c268a4c4a4b37d861f794f682",
+    "message_type": "text",
+    "update_time": "1769955942687",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.86 Safari/537.36 Lark/7.41.5 LarkLocale/zh_CN ttnet SDK-Version/7.41.16"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_8865a079940bcc8ac4597cdecd130075",
+      "union_id": "on_fdaa42b2e5b397d0b2cff56879d4a05f",
+      "user_id": "e8f3ga38"
+    },
+    "sender_type": "user",
+    "tenant_key": "1b6bafba8650d740"
+  }
+}
+2026-02-01 22:25:43 - FeishuBot - INFO - P2消息详情 - 类型: text, 发送者ID: e8f3ga38, 消息ID: om_x100b58c268a4c4a4b37d861f794f682, 聊天ID: oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:25:43 - FeishuBot - INFO - P2检查用户权限: e8f3ga38
+2026-02-01 22:25:43 - FeishuBot - INFO - 权限检查通过
+2026-02-01 22:25:43 - FeishuBot - INFO - P2检查速率限制: e8f3ga38
+2026-02-01 22:25:43 - FeishuBot - INFO - 速率限制检查通过
+2026-02-01 22:25:43 - FeishuBot - INFO - P2解析消息内容, message_type: text
+2026-02-01 22:25:43 - FeishuBot - INFO - P2消息内容: 明天合肥什么天气
+2026-02-01 22:25:43 - FeishuBot - INFO - P2查找处理器 - 消息类型: text, 使用处理器: default
+2026-02-01 22:25:43 - FeishuBot - INFO - P2异步调用消息处理器
+2026-02-01 22:25:43 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:25:43 - AgentOrchestrator - INFO - 处理用户消息 - chat_id: oc_43a6c29f82126fb41c9f5444db36d28a, sender_id: e8f3ga38, message_id: om_x100b58c268a4c4a4b37d861f794f682
+2026-02-01 22:25:43 - AgentOrchestrator - INFO - 消息内容: 明天合肥什么天气
+2026-02-01 22:25:43 - AgentOrchestrator - INFO - 当前对话历史长度: 0
+2026-02-01 22:25:43 - AgentOrchestrator - INFO - 发送'正在分析'提示消息
+2026-02-01 22:25:43 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:25:43 - AgentOrchestrator - INFO - 开始任务分析
+2026-02-01 22:25:43 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下任务，确定需要使用的工具和执行步骤：
+
+任务：明天合肥什么天气
+
+请以JSON格式返回分析结果，包含以下字段：
+- task_type: 任务类型 (document_generation, ...
+2026-02-01 22:25:44 - ClaudeClient - ERROR - Claude Code执行失败: error: unknown option '--no-prompt'
+
+2026-02-01 22:25:44 - AgentOrchestrator - INFO - 任务分析结果: {'task_type': 'general', 'required_tools': [], 'steps': ['理解任务', '生成回答']}
+2026-02-01 22:25:44 - AgentOrchestrator - INFO - 分析成功: True
+2026-02-01 22:25:44 - AgentOrchestrator - INFO - 开始执行任务
+2026-02-01 22:25:44 - AgentOrchestrator - INFO - 执行任务 - 类型: general, 工具: []
+2026-02-01 22:25:44 - AgentOrchestrator - INFO - 处理通用查询
+2026-02-01 22:25:44 - ClaudeClient - INFO - 执行Claude Code命令: 明天合肥什么天气...
+2026-02-01 22:25:45 - ClaudeClient - ERROR - Claude Code执行失败: error: unknown option '--no-prompt'
+
+2026-02-01 22:25:46 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:25:46 - AgentOrchestrator - INFO - 任务执行结果 - 成功: False
+2026-02-01 22:25:46 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:28:22 - Main - INFO - ==================================================
+2026-02-01 22:28:22 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:28:22 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:28:22 - Main - INFO - ==================================================
+2026-02-01 22:28:23 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:28:23 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:28:23 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:28:23 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:28:23 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:28:23 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:28:23 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:28:23 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:28:24 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:28:24 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:28:24 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:28:24 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:28:24 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:28:24 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:28:24 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:28:24 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:28:24 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:28:24 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:28:24 - FeishuBot - INFO - ==================================================
+2026-02-01 22:28:24 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:28:24 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:28:24 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:28:24 - FeishuBot - INFO - ==================================================
+2026-02-01 22:28:24 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:28:24 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:28:24 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:28:24 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.chat.access_event.bot_p2p_chat_entered_v1
+2026-02-01 22:28:24 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.message.message_read_v1
+2026-02-01 22:28:24 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:28:24 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:28:24 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1', 'p2.im.chat.access_event.bot_p2p_chat_entered_v1', 'p2.im.message.message_read_v1']
+2026-02-01 22:28:24 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:28:24 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:28:24 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:28:24 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:28:50 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:28:50 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:28:54 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:28:54 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:28:54 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:28:54 - Main - INFO - 程序已关闭
+2026-02-01 22:29:06 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:29:07 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:29:07 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:29:07 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:29:07 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:29:07 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:29:07 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:29:07 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:29:07 - Main - INFO - 程序已关闭
+2026-02-01 22:29:12 - Main - INFO - ==================================================
+2026-02-01 22:29:12 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:29:12 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:29:12 - Main - INFO - ==================================================
+2026-02-01 22:29:13 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:29:13 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:29:13 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:29:13 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:29:13 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:29:13 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:29:13 - FeishuBot - INFO - ==================================================
+2026-02-01 22:29:13 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:29:13 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:29:13 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:29:13 - FeishuBot - INFO - ==================================================
+2026-02-01 22:29:13 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:29:13 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:29:13 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:29:13 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.chat.access_event.bot_p2p_chat_entered_v1
+2026-02-01 22:29:13 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.message.message_read_v1
+2026-02-01 22:29:13 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:29:13 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:29:13 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1', 'p2.im.chat.access_event.bot_p2p_chat_entered_v1', 'p2.im.message.message_read_v1']
+2026-02-01 22:29:13 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:29:13 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:29:13 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:29:13 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:29:19 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:29:19 - FeishuBot - INFO - P2事件schema: 2.0, header.event_type: im.message.receive_v1
+2026-02-01 22:29:19 - FeishuBot - INFO - P2事件数据: {
+  "message": {
+    "chat_id": "oc_43a6c29f82126fb41c9f5444db36d28a",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"明天合肥什么天气\"}",
+    "create_time": "1769956158694",
+    "message_id": "om_x100b58c27d2570a4b29de75780bdb3b",
+    "message_type": "text",
+    "update_time": "1769956158694",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.86 Safari/537.36 Lark/7.41.5 LarkLocale/zh_CN ttnet SDK-Version/7.41.16"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_8865a079940bcc8ac4597cdecd130075",
+      "union_id": "on_fdaa42b2e5b397d0b2cff56879d4a05f",
+      "user_id": "e8f3ga38"
+    },
+    "sender_type": "user",
+    "tenant_key": "1b6bafba8650d740"
+  }
+}
+2026-02-01 22:29:19 - FeishuBot - INFO - P2消息详情 - 类型: text, 发送者ID: e8f3ga38, 消息ID: om_x100b58c27d2570a4b29de75780bdb3b, 聊天ID: oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:29:19 - FeishuBot - INFO - P2检查用户权限: e8f3ga38
+2026-02-01 22:29:19 - FeishuBot - INFO - 权限检查通过
+2026-02-01 22:29:19 - FeishuBot - INFO - P2检查速率限制: e8f3ga38
+2026-02-01 22:29:19 - FeishuBot - INFO - 速率限制检查通过
+2026-02-01 22:29:19 - FeishuBot - INFO - P2解析消息内容, message_type: text
+2026-02-01 22:29:19 - FeishuBot - INFO - P2消息内容: 明天合肥什么天气
+2026-02-01 22:29:19 - FeishuBot - INFO - P2查找处理器 - 消息类型: text, 使用处理器: default
+2026-02-01 22:29:19 - FeishuBot - INFO - P2异步调用消息处理器
+2026-02-01 22:29:19 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:29:19 - AgentOrchestrator - INFO - 处理用户消息 - chat_id: oc_43a6c29f82126fb41c9f5444db36d28a, sender_id: e8f3ga38, message_id: om_x100b58c27d2570a4b29de75780bdb3b
+2026-02-01 22:29:19 - AgentOrchestrator - INFO - 消息内容: 明天合肥什么天气
+2026-02-01 22:29:19 - AgentOrchestrator - INFO - 当前对话历史长度: 0
+2026-02-01 22:29:19 - AgentOrchestrator - INFO - 发送'正在分析'提示消息
+2026-02-01 22:29:19 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:29:19 - AgentOrchestrator - INFO - 开始任务分析
+2026-02-01 22:29:19 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下任务，确定需要使用的工具和执行步骤：
+
+任务：明天合肥什么天气
+
+请以JSON格式返回分析结果，包含以下字段：
+- task_type: 任务类型 (document_generation, ...
+2026-02-01 22:29:22 - ClaudeClient - ERROR - Claude Code执行失败: {"type":"result","subtype":"success","is_error":true,"duration_ms":595,"duration_api_ms":0,"num_turns":1,"result":"API Error: 400 Model does not exist. Please check it carefully.","session_id":"8396cb
+2026-02-01 22:29:22 - AgentOrchestrator - INFO - 任务分析结果: {'task_type': 'general', 'required_tools': [], 'steps': ['理解任务', '生成回答']}
+2026-02-01 22:29:22 - AgentOrchestrator - INFO - 分析成功: True
+2026-02-01 22:29:22 - AgentOrchestrator - INFO - 开始执行任务
+2026-02-01 22:29:22 - AgentOrchestrator - INFO - 执行任务 - 类型: general, 工具: []
+2026-02-01 22:29:22 - AgentOrchestrator - INFO - 处理通用查询
+2026-02-01 22:29:22 - ClaudeClient - INFO - 执行Claude Code命令: 明天合肥什么天气...
+2026-02-01 22:29:24 - ClaudeClient - ERROR - Claude Code执行失败: {"type":"result","subtype":"success","is_error":true,"duration_ms":363,"duration_api_ms":0,"num_turns":1,"result":"API Error: 400 Model does not exist. Please check it carefully.","session_id":"d83752
+2026-02-01 22:29:24 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:29:24 - AgentOrchestrator - INFO - 任务执行结果 - 成功: False
+2026-02-01 22:29:24 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:30:22 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:30:22 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:30:22 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:30:22 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:30:22 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:30:22 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:30:23 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:30:23 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:30:23 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:30:23 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:30:55 - Main - INFO - ==================================================
+2026-02-01 22:30:55 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:30:55 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:30:55 - Main - INFO - ==================================================
+2026-02-01 22:30:56 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:30:56 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:30:56 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:30:56 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:30:56 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:30:56 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:30:56 - FeishuBot - INFO - ==================================================
+2026-02-01 22:30:56 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:30:56 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:30:56 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:30:56 - FeishuBot - INFO - ==================================================
+2026-02-01 22:30:56 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:30:56 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:30:56 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:30:56 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.chat.access_event.bot_p2p_chat_entered_v1
+2026-02-01 22:30:56 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.message.message_read_v1
+2026-02-01 22:30:56 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:30:56 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:30:56 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1', 'p2.im.chat.access_event.bot_p2p_chat_entered_v1', 'p2.im.message.message_read_v1']
+2026-02-01 22:30:56 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:30:56 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:30:56 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:30:56 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:31:00 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:31:00 - FeishuBot - INFO - P2事件schema: 2.0, header.event_type: im.message.receive_v1
+2026-02-01 22:31:00 - FeishuBot - INFO - P2事件数据: {
+  "message": {
+    "chat_id": "oc_43a6c29f82126fb41c9f5444db36d28a",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"明天合肥什么天气\"}",
+    "create_time": "1769956260379",
+    "message_id": "om_x100b58c27489e0b0b4a24c1b408873b",
+    "message_type": "text",
+    "update_time": "1769956260379",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.86 Safari/537.36 Lark/7.41.5 LarkLocale/zh_CN ttnet SDK-Version/7.41.16"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_8865a079940bcc8ac4597cdecd130075",
+      "union_id": "on_fdaa42b2e5b397d0b2cff56879d4a05f",
+      "user_id": "e8f3ga38"
+    },
+    "sender_type": "user",
+    "tenant_key": "1b6bafba8650d740"
+  }
+}
+2026-02-01 22:31:00 - FeishuBot - INFO - P2消息详情 - 类型: text, 发送者ID: e8f3ga38, 消息ID: om_x100b58c27489e0b0b4a24c1b408873b, 聊天ID: oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:31:00 - FeishuBot - INFO - P2检查用户权限: e8f3ga38
+2026-02-01 22:31:00 - FeishuBot - INFO - 权限检查通过
+2026-02-01 22:31:00 - FeishuBot - INFO - P2检查速率限制: e8f3ga38
+2026-02-01 22:31:00 - FeishuBot - INFO - 速率限制检查通过
+2026-02-01 22:31:00 - FeishuBot - INFO - P2解析消息内容, message_type: text
+2026-02-01 22:31:00 - FeishuBot - INFO - P2消息内容: 明天合肥什么天气
+2026-02-01 22:31:00 - FeishuBot - INFO - P2查找处理器 - 消息类型: text, 使用处理器: default
+2026-02-01 22:31:00 - FeishuBot - INFO - P2异步调用消息处理器
+2026-02-01 22:31:00 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:31:00 - AgentOrchestrator - INFO - 处理用户消息 - chat_id: oc_43a6c29f82126fb41c9f5444db36d28a, sender_id: e8f3ga38, message_id: om_x100b58c27489e0b0b4a24c1b408873b
+2026-02-01 22:31:00 - AgentOrchestrator - INFO - 消息内容: 明天合肥什么天气
+2026-02-01 22:31:00 - AgentOrchestrator - INFO - 当前对话历史长度: 0
+2026-02-01 22:31:00 - AgentOrchestrator - INFO - 发送'正在分析'提示消息
+2026-02-01 22:31:01 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:31:01 - AgentOrchestrator - INFO - 开始任务分析
+2026-02-01 22:31:01 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下任务，确定需要使用的工具和执行步骤：
+
+任务：明天合肥什么天气
+
+请以JSON格式返回分析结果，包含以下字段：
+- task_type: 任务类型 (document_generation, ...
+2026-02-01 22:31:12 - ClaudeClient - INFO - Claude Code执行成功
+2026-02-01 22:31:12 - AgentOrchestrator - INFO - 任务分析结果: {'task_type': 'general', 'required_tools': [], 'steps': ['理解任务', '生成回答']}
+2026-02-01 22:31:12 - AgentOrchestrator - INFO - 分析成功: True
+2026-02-01 22:31:12 - AgentOrchestrator - INFO - 开始执行任务
+2026-02-01 22:31:12 - AgentOrchestrator - INFO - 执行任务 - 类型: general, 工具: []
+2026-02-01 22:31:12 - AgentOrchestrator - INFO - 处理通用查询
+2026-02-01 22:31:12 - ClaudeClient - INFO - 执行Claude Code命令: 明天合肥什么天气...
+2026-02-01 22:31:21 - ClaudeClient - INFO - Claude Code执行成功
+2026-02-01 22:31:21 - FeishuBot - ERROR - 消息发送失败: Your request contains an invalid request parameter, ext=invalid message content. validate content fail.
+2026-02-01 22:31:21 - AgentOrchestrator - INFO - 任务执行结果 - 成功: True
+2026-02-01 22:31:21 - AgentOrchestrator - INFO - 更新后的对话历史长度: 2
+2026-02-01 22:31:21 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:32:31 - Main - INFO - ==================================================
+2026-02-01 22:32:31 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:32:31 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:32:31 - Main - INFO - ==================================================
+2026-02-01 22:32:32 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:32:32 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:32:32 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:32:32 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:32:32 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:32:32 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:32:32 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:32:32 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:32:33 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:32:33 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:32:33 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:32:33 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:32:33 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:32:33 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:32:33 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:32:33 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:32:33 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:32:33 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:32:33 - FeishuBot - INFO - ==================================================
+2026-02-01 22:32:33 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:32:33 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:32:33 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:32:33 - FeishuBot - INFO - ==================================================
+2026-02-01 22:32:33 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:32:33 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:32:33 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:32:33 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.chat.access_event.bot_p2p_chat_entered_v1
+2026-02-01 22:32:33 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.message.message_read_v1
+2026-02-01 22:32:33 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:32:33 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:32:33 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1', 'p2.im.chat.access_event.bot_p2p_chat_entered_v1', 'p2.im.message.message_read_v1']
+2026-02-01 22:32:33 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:32:33 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:32:33 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:32:33 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:33:00 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:33:03 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:33:03 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:33:03 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:33:03 - Main - INFO - 程序已关闭
+2026-02-01 22:33:51 - Main - INFO - ==================================================
+2026-02-01 22:33:51 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:33:51 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:33:51 - Main - INFO - ==================================================
+2026-02-01 22:33:52 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:33:52 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:33:52 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:33:52 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:33:52 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:33:52 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:33:52 - FeishuBot - INFO - ==================================================
+2026-02-01 22:33:52 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:33:52 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:33:52 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:33:52 - FeishuBot - INFO - ==================================================
+2026-02-01 22:33:52 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:33:52 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:33:52 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:33:52 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.chat.access_event.bot_p2p_chat_entered_v1
+2026-02-01 22:33:52 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.message.message_read_v1
+2026-02-01 22:33:52 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:33:52 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:33:52 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1', 'p2.im.chat.access_event.bot_p2p_chat_entered_v1', 'p2.im.message.message_read_v1']
+2026-02-01 22:33:52 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:33:52 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:33:52 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:33:52 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:34:19 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:34:19 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:34:22 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:34:22 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:34:22 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:34:22 - Main - INFO - 程序已关闭
+2026-02-01 22:34:39 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:34:39 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:34:39 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:34:57 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:34:57 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:34:57 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:34:57 - Main - INFO - 程序已关闭
+2026-02-01 22:35:01 - Main - INFO - ==================================================
+2026-02-01 22:35:01 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:35:01 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:35:01 - Main - INFO - ==================================================
+2026-02-01 22:35:02 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:35:02 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:35:02 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:35:02 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:35:02 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:35:02 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:35:02 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:35:02 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:35:03 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:35:03 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:35:03 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:35:03 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:35:03 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:35:03 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:35:03 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:35:03 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:35:03 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:35:03 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:35:03 - FeishuBot - INFO - ==================================================
+2026-02-01 22:35:03 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:35:03 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:35:03 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:35:03 - FeishuBot - INFO - ==================================================
+2026-02-01 22:35:03 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:35:03 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:35:03 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:35:03 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.chat.access_event.bot_p2p_chat_entered_v1
+2026-02-01 22:35:03 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.message.message_read_v1
+2026-02-01 22:35:03 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:35:03 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:35:03 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1', 'p2.im.chat.access_event.bot_p2p_chat_entered_v1', 'p2.im.message.message_read_v1']
+2026-02-01 22:35:03 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:35:03 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:35:03 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:35:03 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:35:04 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:35:04 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:35:04 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:35:05 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:35:05 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:35:05 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:35:05 - Main - INFO - 程序已关闭
+2026-02-01 22:35:09 - Main - INFO - ==================================================
+2026-02-01 22:35:09 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:35:09 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:35:09 - Main - INFO - ==================================================
+2026-02-01 22:35:10 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:35:10 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:35:10 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:35:10 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:35:10 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:35:10 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:35:10 - FeishuBot - INFO - ==================================================
+2026-02-01 22:35:10 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:35:10 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:35:10 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:35:10 - FeishuBot - INFO - ==================================================
+2026-02-01 22:35:10 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:35:10 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:35:10 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:35:10 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.chat.access_event.bot_p2p_chat_entered_v1
+2026-02-01 22:35:10 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.message.message_read_v1
+2026-02-01 22:35:10 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:35:10 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:35:10 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1', 'p2.im.chat.access_event.bot_p2p_chat_entered_v1', 'p2.im.message.message_read_v1']
+2026-02-01 22:35:10 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:35:10 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:35:10 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:35:10 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:35:20 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:35:20 - FeishuBot - INFO - P2事件schema: 2.0, header.event_type: im.message.receive_v1
+2026-02-01 22:35:20 - FeishuBot - INFO - P2事件数据: {
+  "message": {
+    "chat_id": "oc_43a6c29f82126fb41c9f5444db36d28a",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"明天合肥什么天气\"}",
+    "create_time": "1769956519767",
+    "message_id": "om_x100b58c204b7c4a4b2106ff9af6ee7e",
+    "message_type": "text",
+    "update_time": "1769956519767",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.86 Safari/537.36 Lark/7.41.5 LarkLocale/zh_CN ttnet SDK-Version/7.41.16"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_8865a079940bcc8ac4597cdecd130075",
+      "union_id": "on_fdaa42b2e5b397d0b2cff56879d4a05f",
+      "user_id": "e8f3ga38"
+    },
+    "sender_type": "user",
+    "tenant_key": "1b6bafba8650d740"
+  }
+}
+2026-02-01 22:35:20 - FeishuBot - INFO - P2消息详情 - 类型: text, 发送者ID: e8f3ga38, 消息ID: om_x100b58c204b7c4a4b2106ff9af6ee7e, 聊天ID: oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:35:20 - FeishuBot - INFO - P2检查用户权限: e8f3ga38
+2026-02-01 22:35:20 - FeishuBot - INFO - 权限检查通过
+2026-02-01 22:35:20 - FeishuBot - INFO - P2检查速率限制: e8f3ga38
+2026-02-01 22:35:20 - FeishuBot - INFO - 速率限制检查通过
+2026-02-01 22:35:20 - FeishuBot - INFO - P2解析消息内容, message_type: text
+2026-02-01 22:35:20 - FeishuBot - INFO - P2消息内容: 明天合肥什么天气
+2026-02-01 22:35:20 - FeishuBot - INFO - P2查找处理器 - 消息类型: text, 使用处理器: default
+2026-02-01 22:35:20 - FeishuBot - INFO - P2异步调用消息处理器
+2026-02-01 22:35:20 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:35:20 - AgentOrchestrator - INFO - 处理用户消息 - chat_id: oc_43a6c29f82126fb41c9f5444db36d28a, sender_id: e8f3ga38, message_id: om_x100b58c204b7c4a4b2106ff9af6ee7e
+2026-02-01 22:35:20 - AgentOrchestrator - INFO - 消息内容: 明天合肥什么天气
+2026-02-01 22:35:20 - AgentOrchestrator - INFO - 当前对话历史长度: 0
+2026-02-01 22:35:20 - AgentOrchestrator - INFO - 发送'正在分析'提示消息
+2026-02-01 22:35:20 - FeishuBot - INFO - 准备发送消息，长度: 17, 内容预览: 收到您的请求，正在分析并处理...
+2026-02-01 22:35:20 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:35:20 - AgentOrchestrator - INFO - 开始任务分析
+2026-02-01 22:35:20 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下任务，确定需要使用的工具和执行步骤：
+
+任务：明天合肥什么天气
+
+请以JSON格式返回分析结果，包含以下字段：
+- task_type: 任务类型 (document_generation, ...
+2026-02-01 22:35:26 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:35:26 - ClaudeClient - INFO - Claude JSON输出: {"type": "result", "subtype": "success", "is_error": false, "duration_ms": 4082, "duration_api_ms": 3976, "num_turns": 1, "result": "```json\n{\n  \"task_type\": \"web_browsing\",\n  \"required_tools\": [\"WebSearch\"],\n  \"steps\": [\n    \"使用WebSearch工具搜索'合肥明天天气'相关信息\",\n    \"从搜索结果中提取并整理天气信息（温度、天气状况、降雨概率等）\",\n    \"返回格式化的天气报告\"\n  ],\n  \"estimated_complexity\": \"low\",\n  \"additional_requirements\": null\n}\n```\n\n这个任务是一个典型的信息查询任务，只需要通过网络搜索获取天气数据即可，属于低复杂度任务。", "session_id": "77993d22-c668-480d-b0bb-47d8a03d1e84", "total_cost_usd": 0.053409000000000005, "usage": {"input_tokens": 16598, "cache_creation_input_tokens": 0, "cache_read_input_tokens": 0, "output_tokens": 241, "server_tool_use": {"web_search_requests": 0, "web_fetch_requests": 0}, "service_tier": "standard", "cache_creation": {"ephemeral_1h_input_tokens": 0, "ephemeral_5m_input_tokens": 0}}, "modelUsage": {"Pro/zai-org/GLM-4.7": {"inputTokens": 16598, "outputTokens": 241, "cacheReadInputTokens": 0, "cacheCreationInput
+2026-02-01 22:35:26 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 1166, 预览: {'type': 'result', 'subtype': 'success', 'is_error': False, 'duration_ms': 4082, 'duration_api_ms': 
+2026-02-01 22:35:26 - AgentOrchestrator - INFO - 任务分析结果: {'task_type': 'general', 'required_tools': [], 'steps': ['理解任务', '生成回答']}
+2026-02-01 22:35:26 - AgentOrchestrator - INFO - 分析成功: True
+2026-02-01 22:35:26 - AgentOrchestrator - INFO - 开始执行任务
+2026-02-01 22:35:26 - AgentOrchestrator - INFO - 执行任务 - 类型: general, 工具: []
+2026-02-01 22:35:26 - AgentOrchestrator - INFO - 处理通用查询
+2026-02-01 22:35:26 - ClaudeClient - INFO - 执行Claude Code命令: 明天合肥什么天气...
+2026-02-01 22:35:32 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:35:32 - ClaudeClient - INFO - Claude JSON输出: {"type": "result", "subtype": "success", "is_error": false, "duration_ms": 3908, "duration_api_ms": 3768, "num_turns": 2, "result": "我需要使用网络搜索功能来查询合肥明天的天气，但需要您先授权使用 WebSearch 工具。\n\n您可以按以下步骤操作：\n1. 打开设置\n2. 找到工具/权限管理\n3. 授予 WebSearch 权限\n\n授权后我就可以帮您查询合肥明天（2026年2月2日）的天气情况了。", "session_id": "72e6bf16-d894-4c88-9c76-f081dc131be0", "total_cost_usd": 0.10212, "usage": {"input_tokens": 33065, "cache_creation_input_tokens": 0, "cache_read_input_tokens": 0, "output_tokens": 195, "server_tool_use": {"web_search_requests": 0, "web_fetch_requests": 0}, "service_tier": "standard", "cache_creation": {"ephemeral_1h_input_tokens": 0, "ephemeral_5m_input_tokens": 0}}, "modelUsage": {"Pro/zai-org/GLM-4.7": {"inputTokens": 33065, "outputTokens": 195, "cacheReadInputTokens": 0, "cacheCreationInputTokens": 0, "webSearchRequests": 0, "costUSD": 0.10212, "contextWindow": 200000, "maxOutputTokens": 32000}}, "permission_denials": [{"tool_name": "WebSearch", "tool_use_id": "019c19a156888c5e2812aa3be4d2cfb1", "
+2026-02-01 22:35:32 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 1095, 预览: {'type': 'result', 'subtype': 'success', 'is_error': False, 'duration_ms': 3908, 'duration_api_ms': 
+2026-02-01 22:35:32 - FeishuBot - INFO - 准备发送消息，长度: 1095, 内容预览: {'type': 'result', 'subtype': 'success', 'is_error
+2026-02-01 22:35:33 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:35:33 - AgentOrchestrator - INFO - 任务执行结果 - 成功: True
+2026-02-01 22:35:33 - AgentOrchestrator - INFO - 更新后的对话历史长度: 2
+2026-02-01 22:35:33 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:40:13 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:40:13 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:40:14 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:40:40 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:40:40 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:40:40 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:40:40 - Main - INFO - 程序已关闭
+2026-02-01 22:40:44 - Main - INFO - ==================================================
+2026-02-01 22:40:44 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:40:44 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:40:44 - Main - INFO - ==================================================
+2026-02-01 22:40:45 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:40:45 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:40:45 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:40:45 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:40:45 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:40:45 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:40:45 - FeishuBot - INFO - ==================================================
+2026-02-01 22:40:45 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:40:45 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:40:45 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:40:45 - FeishuBot - INFO - ==================================================
+2026-02-01 22:40:45 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:40:45 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:40:45 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:40:45 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.chat.access_event.bot_p2p_chat_entered_v1
+2026-02-01 22:40:45 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.message.message_read_v1
+2026-02-01 22:40:45 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:40:45 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:40:45 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1', 'p2.im.chat.access_event.bot_p2p_chat_entered_v1', 'p2.im.message.message_read_v1']
+2026-02-01 22:40:45 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:40:45 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:40:45 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:40:45 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:40:52 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:40:52 - FeishuBot - INFO - P2事件schema: 2.0, header.event_type: im.message.receive_v1
+2026-02-01 22:40:52 - FeishuBot - INFO - P2事件数据: {
+  "message": {
+    "chat_id": "oc_43a6c29f82126fb41c9f5444db36d28a",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"明天合肥什么天气\"}",
+    "create_time": "1769956852253",
+    "message_id": "om_x100b58c2118fd8a8b37404481be4341",
+    "message_type": "text",
+    "update_time": "1769956852253",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.86 Safari/537.36 Lark/7.41.5 LarkLocale/zh_CN ttnet SDK-Version/7.41.16"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_8865a079940bcc8ac4597cdecd130075",
+      "union_id": "on_fdaa42b2e5b397d0b2cff56879d4a05f",
+      "user_id": "e8f3ga38"
+    },
+    "sender_type": "user",
+    "tenant_key": "1b6bafba8650d740"
+  }
+}
+2026-02-01 22:40:52 - FeishuBot - INFO - P2消息详情 - 类型: text, 发送者ID: e8f3ga38, 消息ID: om_x100b58c2118fd8a8b37404481be4341, 聊天ID: oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:40:52 - FeishuBot - INFO - P2检查用户权限: e8f3ga38
+2026-02-01 22:40:52 - FeishuBot - INFO - 权限检查通过
+2026-02-01 22:40:52 - FeishuBot - INFO - P2检查速率限制: e8f3ga38
+2026-02-01 22:40:52 - FeishuBot - INFO - 速率限制检查通过
+2026-02-01 22:40:52 - FeishuBot - INFO - P2解析消息内容, message_type: text
+2026-02-01 22:40:52 - FeishuBot - INFO - P2消息内容: 明天合肥什么天气
+2026-02-01 22:40:52 - FeishuBot - INFO - P2查找处理器 - 消息类型: text, 使用处理器: default
+2026-02-01 22:40:52 - FeishuBot - INFO - P2异步调用消息处理器
+2026-02-01 22:40:52 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:40:52 - AgentOrchestrator - INFO - 处理用户消息 - chat_id: oc_43a6c29f82126fb41c9f5444db36d28a, sender_id: e8f3ga38, message_id: om_x100b58c2118fd8a8b37404481be4341
+2026-02-01 22:40:52 - AgentOrchestrator - INFO - 消息内容: 明天合肥什么天气
+2026-02-01 22:40:52 - AgentOrchestrator - INFO - 当前对话历史长度: 0
+2026-02-01 22:40:52 - AgentOrchestrator - INFO - 发送'正在分析'提示消息
+2026-02-01 22:40:52 - FeishuBot - INFO - 准备发送消息，长度: 17, 内容预览: 收到您的请求，正在分析并处理...
+2026-02-01 22:40:53 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:40:53 - AgentOrchestrator - INFO - 开始任务分析
+2026-02-01 22:40:53 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下任务，确定需要使用的工具和执行步骤：
+
+任务：明天合肥什么天气
+
+请以JSON格式返回分析结果，包含以下字段：
+- task_type: 任务类型 (document_generation, ...
+2026-02-01 22:40:59 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:40:59 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 208, 预览: {
+  "task_type": "general",
+  "required_tools": [
+    "WebSearch"
+  ],
+  "steps": [
+    "使用WebSearch
+2026-02-01 22:40:59 - AgentOrchestrator - INFO - 任务分析结果: {'task_type': 'general', 'required_tools': ['WebSearch'], 'steps': ['使用WebSearch工具搜索合肥明天天气信息', '分析并整理搜索结果中的天气数据'], 'estimated_complexity': 'low', 'additional_requirements': []}
+2026-02-01 22:40:59 - AgentOrchestrator - INFO - 分析成功: True
+2026-02-01 22:40:59 - AgentOrchestrator - INFO - 开始执行任务
+2026-02-01 22:40:59 - AgentOrchestrator - INFO - 执行任务 - 类型: general, 工具: ['WebSearch']
+2026-02-01 22:40:59 - AgentOrchestrator - INFO - 处理通用查询
+2026-02-01 22:40:59 - ClaudeClient - INFO - 执行Claude Code命令: 明天合肥什么天气...
+2026-02-01 22:41:16 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:41:16 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 168, 预览: 很抱歉，我目前无法获取到合肥明天（2026年2月2日）的具体天气预报信息。您可以：
+
+1. 访问天气网站如 [中国天气网](http://www.weather.com.cn/)
+2. 使用手机的天气
+2026-02-01 22:41:16 - FeishuBot - INFO - 准备发送消息，长度: 168, 内容预览: 很抱歉，我目前无法获取到合肥明天（2026年2月2日）的具体天气预报信息。您可以：
+
+1. 访问天气
+2026-02-01 22:41:17 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:41:17 - AgentOrchestrator - INFO - 任务执行结果 - 成功: True
+2026-02-01 22:41:17 - AgentOrchestrator - INFO - 更新后的对话历史长度: 2
+2026-02-01 22:41:17 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:42:03 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:42:03 - FeishuBot - INFO - P2事件schema: 2.0, header.event_type: im.message.receive_v1
+2026-02-01 22:42:03 - FeishuBot - INFO - P2事件数据: {
+  "message": {
+    "chat_id": "oc_43a6c29f82126fb41c9f5444db36d28a",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"计算从一到一亿的阶乘结果并告诉我答案\"}",
+    "create_time": "1769956922853",
+    "message_id": "om_x100b58c22d66d0a8b20eb82f76538af",
+    "message_type": "text",
+    "update_time": "1769956922853",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_8865a079940bcc8ac4597cdecd130075",
+      "union_id": "on_fdaa42b2e5b397d0b2cff56879d4a05f",
+      "user_id": "e8f3ga38"
+    },
+    "sender_type": "user",
+    "tenant_key": "1b6bafba8650d740"
+  }
+}
+2026-02-01 22:42:03 - FeishuBot - INFO - P2消息详情 - 类型: text, 发送者ID: e8f3ga38, 消息ID: om_x100b58c22d66d0a8b20eb82f76538af, 聊天ID: oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:42:03 - FeishuBot - INFO - P2检查用户权限: e8f3ga38
+2026-02-01 22:42:03 - FeishuBot - INFO - 权限检查通过
+2026-02-01 22:42:03 - FeishuBot - INFO - P2检查速率限制: e8f3ga38
+2026-02-01 22:42:03 - FeishuBot - INFO - 速率限制检查通过
+2026-02-01 22:42:03 - FeishuBot - INFO - P2解析消息内容, message_type: text
+2026-02-01 22:42:03 - FeishuBot - INFO - P2消息内容: 计算从一到一亿的阶乘结果并告诉我答案
+2026-02-01 22:42:03 - FeishuBot - INFO - P2查找处理器 - 消息类型: text, 使用处理器: default
+2026-02-01 22:42:03 - FeishuBot - INFO - P2异步调用消息处理器
+2026-02-01 22:42:03 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:42:03 - AgentOrchestrator - INFO - 处理用户消息 - chat_id: oc_43a6c29f82126fb41c9f5444db36d28a, sender_id: e8f3ga38, message_id: om_x100b58c22d66d0a8b20eb82f76538af
+2026-02-01 22:42:03 - AgentOrchestrator - INFO - 消息内容: 计算从一到一亿的阶乘结果并告诉我答案
+2026-02-01 22:42:03 - AgentOrchestrator - INFO - 当前对话历史长度: 2
+2026-02-01 22:42:03 - AgentOrchestrator - INFO - 发送'正在分析'提示消息
+2026-02-01 22:42:03 - FeishuBot - INFO - 准备发送消息，长度: 17, 内容预览: 收到您的请求，正在分析并处理...
+2026-02-01 22:42:03 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:42:03 - AgentOrchestrator - INFO - 开始任务分析
+2026-02-01 22:42:03 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下任务，确定需要使用的工具和执行步骤：
+
+任务：计算从一到一亿的阶乘结果并告诉我答案
+
+请以JSON格式返回分析结果，包含以下字段：
+- task_type: 任务类型 (document_ge...
+2026-02-01 22:42:20 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:42:20 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 614, 预览: {
+  "task_type": "general",
+  "required_tools": [],
+  "steps": [
+    "分析阶乘计算的复杂度",
+    "评估1亿阶乘的规模（约8
+2026-02-01 22:42:20 - AgentOrchestrator - INFO - 任务分析结果: {'task_type': 'general', 'required_tools': [], 'steps': ['分析阶乘计算的复杂度', '评估1亿阶乘的规模（约8亿位数字）', '结论：此任务在现实条件下不可完成'], 'estimated_complexity': 'high', 'additional_requirements': '需告知用户此任务不可行的原因：1亿阶乘结果约为8亿位数字，超出任何计算机的存储能力'}
+2026-02-01 22:42:20 - AgentOrchestrator - INFO - 分析成功: True
+2026-02-01 22:42:20 - AgentOrchestrator - INFO - 开始执行任务
+2026-02-01 22:42:20 - AgentOrchestrator - INFO - 执行任务 - 类型: general, 工具: []
+2026-02-01 22:42:20 - AgentOrchestrator - INFO - 处理通用查询
+2026-02-01 22:42:20 - ClaudeClient - INFO - 执行Claude Code命令: 计算从一到一亿的阶乘结果并告诉我答案...
+2026-02-01 22:42:30 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:42:30 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 477, 预览: 计算从1到1亿（100,000,000）的阶乘结果：
+
+**这个数字太小了，无法在这里完整显示。**
+
+让我解释一下原因：
+
+1 **100,000,000!（1亿阶乘）是一个天文数字**
+   - 
+2026-02-01 22:42:30 - FeishuBot - INFO - 准备发送消息，长度: 477, 内容预览: 计算从1到1亿（100,000,000）的阶乘结果：
+
+**这个数字太小了，无法在这里完整显示。**
+2026-02-01 22:42:30 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:42:30 - AgentOrchestrator - INFO - 任务执行结果 - 成功: True
+2026-02-01 22:42:30 - AgentOrchestrator - INFO - 更新后的对话历史长度: 4
+2026-02-01 22:42:30 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:42:57 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:42:57 - FeishuBot - INFO - P2事件schema: 2.0, header.event_type: im.message.receive_v1
+2026-02-01 22:42:57 - FeishuBot - INFO - P2事件数据: {
+  "message": {
+    "chat_id": "oc_43a6c29f82126fb41c9f5444db36d28a",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"计算一百位圆周率\"}",
+    "create_time": "1769956977535",
+    "message_id": "om_x100b58c229db78a0b49ed19fc2f0a9d",
+    "message_type": "text",
+    "update_time": "1769956977535",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_8865a079940bcc8ac4597cdecd130075",
+      "union_id": "on_fdaa42b2e5b397d0b2cff56879d4a05f",
+      "user_id": "e8f3ga38"
+    },
+    "sender_type": "user",
+    "tenant_key": "1b6bafba8650d740"
+  }
+}
+2026-02-01 22:42:57 - FeishuBot - INFO - P2消息详情 - 类型: text, 发送者ID: e8f3ga38, 消息ID: om_x100b58c229db78a0b49ed19fc2f0a9d, 聊天ID: oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:42:57 - FeishuBot - INFO - P2检查用户权限: e8f3ga38
+2026-02-01 22:42:57 - FeishuBot - INFO - 权限检查通过
+2026-02-01 22:42:57 - FeishuBot - INFO - P2检查速率限制: e8f3ga38
+2026-02-01 22:42:57 - FeishuBot - INFO - 速率限制检查通过
+2026-02-01 22:42:57 - FeishuBot - INFO - P2解析消息内容, message_type: text
+2026-02-01 22:42:57 - FeishuBot - INFO - P2消息内容: 计算一百位圆周率
+2026-02-01 22:42:57 - FeishuBot - INFO - P2查找处理器 - 消息类型: text, 使用处理器: default
+2026-02-01 22:42:57 - FeishuBot - INFO - P2异步调用消息处理器
+2026-02-01 22:42:57 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:42:57 - AgentOrchestrator - INFO - 处理用户消息 - chat_id: oc_43a6c29f82126fb41c9f5444db36d28a, sender_id: e8f3ga38, message_id: om_x100b58c229db78a0b49ed19fc2f0a9d
+2026-02-01 22:42:57 - AgentOrchestrator - INFO - 消息内容: 计算一百位圆周率
+2026-02-01 22:42:57 - AgentOrchestrator - INFO - 当前对话历史长度: 4
+2026-02-01 22:42:57 - AgentOrchestrator - INFO - 发送'正在分析'提示消息
+2026-02-01 22:42:57 - FeishuBot - INFO - 准备发送消息，长度: 17, 内容预览: 收到您的请求，正在分析并处理...
+2026-02-01 22:42:58 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:42:58 - AgentOrchestrator - INFO - 开始任务分析
+2026-02-01 22:42:58 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下任务，确定需要使用的工具和执行步骤：
+
+任务：计算一百位圆周率
+
+请以JSON格式返回分析结果，包含以下字段：
+- task_type: 任务类型 (document_generation, ...
+2026-02-01 22:43:08 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:43:08 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 422, 预览: {
+  "task_type": "general",
+  "required_tools": [],
+  "steps": [
+    "检索或计算圆周率的前100位小数"
+  ],
+  "esti
+2026-02-01 22:43:08 - AgentOrchestrator - INFO - 任务分析结果: {'task_type': 'general', 'required_tools': [], 'steps': ['检索或计算圆周率的前100位小数'], 'estimated_complexity': 'low', 'additional_requirements': []}
+2026-02-01 22:43:08 - AgentOrchestrator - INFO - 分析成功: True
+2026-02-01 22:43:08 - AgentOrchestrator - INFO - 开始执行任务
+2026-02-01 22:43:08 - AgentOrchestrator - INFO - 执行任务 - 类型: general, 工具: []
+2026-02-01 22:43:08 - AgentOrchestrator - INFO - 处理通用查询
+2026-02-01 22:43:08 - ClaudeClient - INFO - 执行Claude Code命令: 计算一百位圆周率...
+2026-02-01 22:43:12 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:43:12 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 149, 预览: 圆周率 π 到 100 位小数为：
+
+`
+3.14159265358979323846264338327950288419716939937510582097494459230781640628620
+2026-02-01 22:43:12 - FeishuBot - INFO - 准备发送消息，长度: 149, 内容预览: 圆周率 π 到 100 位小数为：
+
+`
+3.141592653589793238462643383
+2026-02-01 22:43:13 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:43:13 - AgentOrchestrator - INFO - 任务执行结果 - 成功: True
+2026-02-01 22:43:13 - AgentOrchestrator - INFO - 更新后的对话历史长度: 6
+2026-02-01 22:43:13 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:43:38 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:43:38 - FeishuBot - INFO - P2事件schema: 2.0, header.event_type: im.message.receive_v1
+2026-02-01 22:43:38 - FeishuBot - INFO - P2事件数据: {
+  "message": {
+    "chat_id": "oc_43a6c29f82126fb41c9f5444db36d28a",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"打开百度并告诉我首页有什么内容\"}",
+    "create_time": "1769957017775",
+    "message_id": "om_x100b58c227572cb0b4a63b5db32d528",
+    "message_type": "text",
+    "update_time": "1769957017775",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_8865a079940bcc8ac4597cdecd130075",
+      "union_id": "on_fdaa42b2e5b397d0b2cff56879d4a05f",
+      "user_id": "e8f3ga38"
+    },
+    "sender_type": "user",
+    "tenant_key": "1b6bafba8650d740"
+  }
+}
+2026-02-01 22:43:38 - FeishuBot - INFO - P2消息详情 - 类型: text, 发送者ID: e8f3ga38, 消息ID: om_x100b58c227572cb0b4a63b5db32d528, 聊天ID: oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:43:38 - FeishuBot - INFO - P2检查用户权限: e8f3ga38
+2026-02-01 22:43:38 - FeishuBot - INFO - 权限检查通过
+2026-02-01 22:43:38 - FeishuBot - INFO - P2检查速率限制: e8f3ga38
+2026-02-01 22:43:38 - FeishuBot - INFO - 速率限制检查通过
+2026-02-01 22:43:38 - FeishuBot - INFO - P2解析消息内容, message_type: text
+2026-02-01 22:43:38 - FeishuBot - INFO - P2消息内容: 打开百度并告诉我首页有什么内容
+2026-02-01 22:43:38 - FeishuBot - INFO - P2查找处理器 - 消息类型: text, 使用处理器: default
+2026-02-01 22:43:38 - FeishuBot - INFO - P2异步调用消息处理器
+2026-02-01 22:43:38 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:43:38 - AgentOrchestrator - INFO - 处理用户消息 - chat_id: oc_43a6c29f82126fb41c9f5444db36d28a, sender_id: e8f3ga38, message_id: om_x100b58c227572cb0b4a63b5db32d528
+2026-02-01 22:43:38 - AgentOrchestrator - INFO - 消息内容: 打开百度并告诉我首页有什么内容
+2026-02-01 22:43:38 - AgentOrchestrator - INFO - 当前对话历史长度: 6
+2026-02-01 22:43:38 - AgentOrchestrator - INFO - 发送'正在分析'提示消息
+2026-02-01 22:43:38 - FeishuBot - INFO - 准备发送消息，长度: 17, 内容预览: 收到您的请求，正在分析并处理...
+2026-02-01 22:43:38 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:43:38 - AgentOrchestrator - INFO - 开始任务分析
+2026-02-01 22:43:38 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下任务，确定需要使用的工具和执行步骤：
+
+任务：打开百度并告诉我首页有什么内容
+
+请以JSON格式返回分析结果，包含以下字段：
+- task_type: 任务类型 (document_gener...
+2026-02-01 22:43:44 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:43:44 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 216, 预览: {
+  "task_type": "web_browsing",
+  "required_tools": ["WebFetch"],
+  "steps": [
+    "使用WebFetch访问百度首
+2026-02-01 22:43:44 - AgentOrchestrator - INFO - 任务分析结果: {'task_type': 'web_browsing', 'required_tools': ['WebFetch'], 'steps': ['使用WebFetch访问百度首页', '分析获取到的页面内容', '总结页面主要内容并返回给用户'], 'estimated_complexity': 'low', 'additional_requirements': None}
+2026-02-01 22:43:44 - AgentOrchestrator - INFO - 分析成功: True
+2026-02-01 22:43:44 - AgentOrchestrator - INFO - 开始执行任务
+2026-02-01 22:43:44 - AgentOrchestrator - INFO - 执行任务 - 类型: web_browsing, 工具: ['WebFetch']
+2026-02-01 22:43:44 - AgentOrchestrator - INFO - 执行网络浏览任务
+2026-02-01 22:43:44 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下请求，提取搜索关键词和意图：打开百度并告诉我首页有什么内容
+
+请只返回搜索关键词，不要其他内容。...
+2026-02-01 22:43:47 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:43:47 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 6, 预览: 百度首页内容
+2026-02-01 22:43:47 - FeishuBot - INFO - 准备发送消息，长度: 21, 内容预览: 正在搜索: 打开百度并告诉我首页有什么内容
+2026-02-01 22:43:47 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:43:47 - WebBrowser - INFO - 执行搜索: 打开百度并告诉我首页有什么内容 (引擎: baidu)
+2026-02-01 22:43:48 - WebBrowser - INFO - 搜索完成，找到 5 个结果
+2026-02-01 22:43:48 - FeishuBot - INFO - 准备发送消息，长度: 22, 内容预览: 正在获取第 1 条结果: 百度一下,你就知道
+2026-02-01 22:43:49 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:43:49 - WebBrowser - INFO - 获取页面: http://www.baidu.com/link?url=dnFECQCeOl_uW1fjphLN8klA69_Twey2mjqwEaVhtnp0yZMEuITFV0UFjO3a-3Ej
+2026-02-01 22:43:50 - FeishuBot - INFO - 准备发送消息，长度: 26, 内容预览: 正在获取第 2 条结果: 百度用户服务中心-百度新闻
+2026-02-01 22:43:51 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:43:51 - WebBrowser - INFO - 获取页面: http://www.baidu.com/link?url=tMhfM6leMMRJeWcf7YIIQYH-kFAsyXNQhi0UsRKHhUpf-XS-L-z-To86Uf4csieN9zM4pPNtbKqI_4FWnVC2fdguc_EFVrjqTPszeNNoZG3
+2026-02-01 22:43:52 - FeishuBot - INFO - 准备发送消息，长度: 22, 内容预览: 正在获取第 3 条结果: 百度一下,你就知道
+2026-02-01 22:43:52 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:43:52 - WebBrowser - INFO - 获取页面: http://www.baidu.com/link?url=tMhfM6leMMRJeWcf7YIIQM8mlTAl-5lCkRqathKvwPYJFSe_X30okv8BOHDx3MCp-QYJ0vwadmCPo3hVUDeo6_
+2026-02-01 22:43:53 - ClaudeClient - INFO - 执行Claude Code命令: 请根据以下搜索结果，整理并回答用户的问题：
+用户问题：打开百度并告诉我首页有什么内容
+
+搜索结果：
+[
+  {
+    "title": "百度一下,你就知道",
+    "url": "http:/...
+2026-02-01 22:44:01 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:44:01 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 390, 预览: 根据搜索结果，百度首页包含以下主要内容：
+
+## 百度首页主要结构
+
+### 1. 核心搜索功能
+- 中心位置有一个搜索框
+- "百度一下，你就知道" 百度的主口号
+
+### 2. 导航栏
+顶部包含以
+2026-02-01 22:44:01 - FeishuBot - INFO - 准备发送消息，长度: 995, 内容预览: 根据搜索结果，百度首页包含以下主要内容：
+
+## 百度首页主要结构
+
+### 1. 核心搜索功能
+-
+2026-02-01 22:44:01 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:44:01 - AgentOrchestrator - INFO - 任务执行结果 - 成功: True
+2026-02-01 22:44:01 - AgentOrchestrator - INFO - 更新后的对话历史长度: 8
+2026-02-01 22:44:01 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:44:29 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:44:29 - FeishuBot - INFO - P2事件schema: 2.0, header.event_type: im.message.receive_v1
+2026-02-01 22:44:29 - FeishuBot - INFO - P2事件数据: {
+  "message": {
+    "chat_id": "oc_43a6c29f82126fb41c9f5444db36d28a",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"588170的最近的走势怎么样\"}",
+    "create_time": "1769957069435",
+    "message_id": "om_x100b58c22218c4a0b3db6b85ea7ace7",
+    "message_type": "text",
+    "update_time": "1769957069435",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_8865a079940bcc8ac4597cdecd130075",
+      "union_id": "on_fdaa42b2e5b397d0b2cff56879d4a05f",
+      "user_id": "e8f3ga38"
+    },
+    "sender_type": "user",
+    "tenant_key": "1b6bafba8650d740"
+  }
+}
+2026-02-01 22:44:29 - FeishuBot - INFO - P2消息详情 - 类型: text, 发送者ID: e8f3ga38, 消息ID: om_x100b58c22218c4a0b3db6b85ea7ace7, 聊天ID: oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:44:29 - FeishuBot - INFO - P2检查用户权限: e8f3ga38
+2026-02-01 22:44:29 - FeishuBot - INFO - 权限检查通过
+2026-02-01 22:44:29 - FeishuBot - INFO - P2检查速率限制: e8f3ga38
+2026-02-01 22:44:29 - FeishuBot - INFO - 速率限制检查通过
+2026-02-01 22:44:29 - FeishuBot - INFO - P2解析消息内容, message_type: text
+2026-02-01 22:44:29 - FeishuBot - INFO - P2消息内容: 588170的最近的走势怎么样
+2026-02-01 22:44:29 - FeishuBot - INFO - P2查找处理器 - 消息类型: text, 使用处理器: default
+2026-02-01 22:44:29 - FeishuBot - INFO - P2异步调用消息处理器
+2026-02-01 22:44:29 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:44:29 - AgentOrchestrator - INFO - 处理用户消息 - chat_id: oc_43a6c29f82126fb41c9f5444db36d28a, sender_id: e8f3ga38, message_id: om_x100b58c22218c4a0b3db6b85ea7ace7
+2026-02-01 22:44:29 - AgentOrchestrator - INFO - 消息内容: 588170的最近的走势怎么样
+2026-02-01 22:44:29 - AgentOrchestrator - INFO - 当前对话历史长度: 8
+2026-02-01 22:44:29 - AgentOrchestrator - INFO - 发送'正在分析'提示消息
+2026-02-01 22:44:29 - FeishuBot - INFO - 准备发送消息，长度: 17, 内容预览: 收到您的请求，正在分析并处理...
+2026-02-01 22:44:30 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:44:30 - AgentOrchestrator - INFO - 开始任务分析
+2026-02-01 22:44:30 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下任务，确定需要使用的工具和执行步骤：
+
+任务：588170的最近的走势怎么样
+
+请以JSON格式返回分析结果，包含以下字段：
+- task_type: 任务类型 (document_gener...
+2026-02-01 22:44:35 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:44:35 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 295, 预览: {
+  "task_type": "web_browsing",
+  "required_tools": [
+    "WebSearch"
+  ],
+  "steps": [
+    "使用WebS
+2026-02-01 22:44:35 - AgentOrchestrator - INFO - 任务分析结果: {'task_type': 'web_browsing', 'required_tools': ['WebSearch'], 'steps': ['使用WebSearch搜索股票代码588170的相关信息', '获取该股票最近的价格走势数据', '整理并展示分析结果'], 'estimated_complexity': 'low', 'additional_requirements': None}
+2026-02-01 22:44:35 - AgentOrchestrator - INFO - 分析成功: True
+2026-02-01 22:44:35 - AgentOrchestrator - INFO - 开始执行任务
+2026-02-01 22:44:35 - AgentOrchestrator - INFO - 执行任务 - 类型: web_browsing, 工具: ['WebSearch']
+2026-02-01 22:44:35 - AgentOrchestrator - INFO - 执行网络浏览任务
+2026-02-01 22:44:35 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下请求，提取搜索关键词和意图：588170的最近的走势怎么样
+
+请只返回搜索关键词，不要其他内容。...
+2026-02-01 22:44:40 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:44:40 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 9, 预览: 588170 走势
+2026-02-01 22:44:40 - FeishuBot - INFO - 准备发送消息，长度: 21, 内容预览: 正在搜索: 588170的最近的走势怎么样
+2026-02-01 22:44:40 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:44:40 - WebBrowser - INFO - 执行搜索: 588170的最近的走势怎么样 (引擎: baidu)
+2026-02-01 22:44:41 - WebBrowser - INFO - 搜索完成，找到 5 个结果
+2026-02-01 22:44:41 - FeishuBot - INFO - 准备发送消息，长度: 53, 内容预览: 正在获取第 1 条结果: ETF收评丨半导体板块技术性回调,科创半导体ETF(588170)和半导体
+2026-02-01 22:44:42 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:44:42 - WebBrowser - INFO - 获取页面: http://www.baidu.com/link?url=9aHmrK_920a-GaXyHsHrh33yAEhtQfTl2FxKs1UnCrE-O8m1EM4QwB0_ylB5zP2bZh4B0I5AIp3yZz4cgJxUbK
+2026-02-01 22:44:43 - FeishuBot - INFO - 准备发送消息，长度: 57, 内容预览: 正在获取第 2 条结果: ETF收评丨科创半导体ETF(588170)走势下探,等待企稳信号|早盘|
+2026-02-01 22:44:43 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:44:43 - WebBrowser - INFO - 获取页面: http://www.baidu.com/link?url=DCQjRhSKNJshxebKqFmhVtyCuhoZeNe3owK55zAr5XrrIarIW3rVMVbioO3yah_QmYtEBu705t04Icc2iNEsva
+2026-02-01 22:44:44 - FeishuBot - INFO - 准备发送消息，长度: 40, 内容预览: 正在获取第 3 条结果: 八亿时空(688181)_股票行情_走势图—东方财富网
+2026-02-01 22:44:45 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:44:45 - WebBrowser - INFO - 获取页面: http://www.baidu.com/link?url=9aHmrK_920a-GaXyHsHrh0HRQldwSBk7sKyt6a-eLVBtdL_-FG0mgLHXK19T0JQ2BrUQASRqbB5rJ2d4YtxU8_
+2026-02-01 22:44:45 - ClaudeClient - INFO - 执行Claude Code命令: 请根据以下搜索结果，整理并回答用户的问题：
+用户问题：588170的最近的走势怎么样
+
+搜索结果：
+[
+  {
+    "title": "ETF收评丨半导体板块技术性回调,科创半导体ETF(5881...
+2026-02-01 22:44:58 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:44:58 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 1045, 预览: ## 科创半导体ETF（588170）最近走势分析
+
+### 📊 最新行情（2026年1月19日）
+
+| 指标 | 数据 |
+|------|------|
+| 最新价格 | 1.88元 |
+| 当日
+2026-02-01 22:44:58 - FeishuBot - INFO - 准备发送消息，长度: 1867, 内容预览: ## 科创半导体ETF（588170）最近走势分析
+
+### 📊 最新行情（2026年1月19日）
+
+2026-02-01 22:44:59 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:44:59 - AgentOrchestrator - INFO - 任务执行结果 - 成功: True
+2026-02-01 22:44:59 - AgentOrchestrator - INFO - 更新后的对话历史长度: 10
+2026-02-01 22:44:59 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:59:15 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 22:59:16 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 22:59:16 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 22:59:16 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 22:59:16 - Main - INFO - 程序已关闭
+2026-02-01 22:59:20 - Main - INFO - ==================================================
+2026-02-01 22:59:20 - Main - INFO - Mongkok AI Agent 启动中...
+2026-02-01 22:59:20 - Main - INFO - 版本: 1.0.0
+2026-02-01 22:59:20 - Main - INFO - ==================================================
+2026-02-01 22:59:21 - ClaudeClient - INFO - Claude Code CLI版本: 2.1.29 (Claude Code)
+2026-02-01 22:59:21 - ClaudeClient - INFO - 找到Claude Code CLI: claude
+2026-02-01 22:59:21 - FeishuBot - INFO - FeishuBot (WebSocket长连接模式) 初始化完成: 寻梦精灵
+2026-02-01 22:59:21 - PackageInstaller - INFO - 检测到uv可用: uv 0.9.27
+2026-02-01 22:59:21 - FeishuBot - INFO - 设置默认消息处理器
+2026-02-01 22:59:21 - AgentOrchestrator - INFO - Agent编排器初始化完成
+2026-02-01 22:59:21 - AgentOrchestrator - INFO - 启动AI Agent...
+2026-02-01 22:59:21 - AgentOrchestrator - INFO - 检查缺失的包...
+2026-02-01 22:59:22 - AgentOrchestrator - INFO - 包已存在: lark-oapi (版本: 1.5.3)
+2026-02-01 22:59:22 - AgentOrchestrator - INFO - 包已存在: websockets (版本: 16.0)
+2026-02-01 22:59:22 - AgentOrchestrator - INFO - 包已存在: fastapi (版本: 0.128.0)
+2026-02-01 22:59:22 - AgentOrchestrator - INFO - 包已存在: uvicorn (版本: 0.40.0)
+2026-02-01 22:59:22 - AgentOrchestrator - INFO - 包已存在: aiohttp (版本: 3.13.3)
+2026-02-01 22:59:22 - AgentOrchestrator - INFO - 包已存在: beautifulsoup4 (版本: 4.14.3)
+2026-02-01 22:59:22 - AgentOrchestrator - INFO - 包已存在: markdown (版本: 3.10.1)
+2026-02-01 22:59:22 - AgentOrchestrator - INFO - 包已存在: python-docx (版本: 1.2.0)
+2026-02-01 22:59:22 - AgentOrchestrator - INFO - 包已存在: reportlab (版本: 4.4.9)
+2026-02-01 22:59:22 - AgentOrchestrator - INFO - 包已存在: jinja2 (版本: 3.1.6)
+2026-02-01 22:59:22 - FeishuBot - INFO - ==================================================
+2026-02-01 22:59:22 - FeishuBot - INFO - 启动飞书机器人 (WebSocket长连接模式)
+2026-02-01 22:59:22 - FeishuBot - INFO - Bot名称: 寻梦精灵
+2026-02-01 22:59:22 - FeishuBot - INFO - App ID: cli_a88495391ef9900c
+2026-02-01 22:59:22 - FeishuBot - INFO - ==================================================
+2026-02-01 22:59:22 - FeishuBot - INFO - 设置事件处理器...
+2026-02-01 22:59:22 - FeishuBot - INFO - 注册 P1 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:59:22 - FeishuBot - INFO - 注册 P2 自定义事件处理器: im.message.receive_v1
+2026-02-01 22:59:22 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.chat.access_event.bot_p2p_chat_entered_v1
+2026-02-01 22:59:22 - FeishuBot - INFO - 注册忽略事件处理器: p2.im.message.message_read_v1
+2026-02-01 22:59:22 - FeishuBot - INFO - 事件处理器注册完成
+2026-02-01 22:59:22 - FeishuBot - INFO - 事件处理器构建完成
+2026-02-01 22:59:22 - FeishuBot - INFO - 已注册的处理器: ['p1.im.message.receive_v1', 'p2.im.message.receive_v1', 'p2.im.chat.access_event.bot_p2p_chat_entered_v1', 'p2.im.message.message_read_v1']
+2026-02-01 22:59:22 - FeishuBot - INFO - 启动飞书WebSocket客户端: 寻梦精灵
+2026-02-01 22:59:22 - FeishuBot - INFO - 检测到已有事件循环在运行
+2026-02-01 22:59:22 - FeishuBot - WARNING - nest_asyncio未安装，尝试同步启动WebSocket
+2026-02-01 22:59:22 - FeishuBot - INFO - WebSocket客户端已在线程中启动
+2026-02-01 22:59:37 - FeishuBot - INFO - 收到P2消息事件
+2026-02-01 22:59:37 - FeishuBot - INFO - P2事件schema: 2.0, header.event_type: im.message.receive_v1
+2026-02-01 22:59:37 - FeishuBot - INFO - P2事件数据: {
+  "message": {
+    "chat_id": "oc_43a6c29f82126fb41c9f5444db36d28a",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"588170走势如何\"}",
+    "create_time": "1769957977354",
+    "message_id": "om_x100b58c2eb5e5ca4b384e4a563ce304",
+    "message_type": "text",
+    "update_time": "1769957977354",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_8865a079940bcc8ac4597cdecd130075",
+      "union_id": "on_fdaa42b2e5b397d0b2cff56879d4a05f",
+      "user_id": "e8f3ga38"
+    },
+    "sender_type": "user",
+    "tenant_key": "1b6bafba8650d740"
+  }
+}
+2026-02-01 22:59:37 - FeishuBot - INFO - P2消息详情 - 类型: text, 发送者ID: e8f3ga38, 消息ID: om_x100b58c2eb5e5ca4b384e4a563ce304, 聊天ID: oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:59:37 - FeishuBot - INFO - P2检查用户权限: e8f3ga38
+2026-02-01 22:59:37 - FeishuBot - INFO - 权限检查通过
+2026-02-01 22:59:37 - FeishuBot - INFO - P2检查速率限制: e8f3ga38
+2026-02-01 22:59:37 - FeishuBot - INFO - 速率限制检查通过
+2026-02-01 22:59:37 - FeishuBot - INFO - P2解析消息内容, message_type: text
+2026-02-01 22:59:37 - FeishuBot - INFO - P2消息内容: 588170走势如何
+2026-02-01 22:59:37 - FeishuBot - INFO - P2查找处理器 - 消息类型: text, 使用处理器: default
+2026-02-01 22:59:37 - FeishuBot - INFO - P2异步调用消息处理器
+2026-02-01 22:59:37 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 22:59:37 - AgentOrchestrator - INFO - 处理用户消息 - chat_id: oc_43a6c29f82126fb41c9f5444db36d28a, sender_id: e8f3ga38, message_id: om_x100b58c2eb5e5ca4b384e4a563ce304
+2026-02-01 22:59:37 - AgentOrchestrator - INFO - 消息内容: 588170走势如何
+2026-02-01 22:59:37 - AgentOrchestrator - INFO - 当前对话历史长度: 0
+2026-02-01 22:59:37 - AgentOrchestrator - INFO - 发送'正在分析'提示消息
+2026-02-01 22:59:37 - FeishuBot - INFO - 准备发送消息，长度: 17, 内容预览: 收到您的请求，正在分析并处理...
+2026-02-01 22:59:38 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:59:38 - AgentOrchestrator - INFO - 开始任务分析
+2026-02-01 22:59:38 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下任务，确定需要使用的工具和执行步骤：
+
+任务：588170走势如何
+
+请以JSON格式返回分析结果，包含以下字段：
+- task_type: 任务类型 (document_generation...
+2026-02-01 22:59:44 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:59:44 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 274, 预览: {
+  "task_type": "web_browsing",
+  "required_tools": ["WebSearch"],
+  "steps": [
+    "搜索股票代码588170的基
+2026-02-01 22:59:44 - AgentOrchestrator - INFO - 任务分析结果: {'task_type': 'web_browsing', 'required_tools': ['WebSearch'], 'steps': ['搜索股票代码588170的基本信息和公司背景', '查询该股票的近期价格走势情况', '获取技术分析指标和市场表现数据', '整理并总结走势情况'], 'estimated_complexity': 'medium', 'additional_requirements': '需要获取实时的或近期的股价数据、涨跌幅、成交量等关键指标'}
+2026-02-01 22:59:44 - AgentOrchestrator - INFO - 分析成功: True
+2026-02-01 22:59:44 - AgentOrchestrator - INFO - 开始执行任务
+2026-02-01 22:59:44 - AgentOrchestrator - INFO - 执行任务 - 类型: web_browsing, 工具: ['WebSearch']
+2026-02-01 22:59:44 - AgentOrchestrator - INFO - 执行网络浏览任务
+2026-02-01 22:59:44 - ClaudeClient - INFO - 执行Claude Code命令: 分析以下请求，提取搜索关键词和意图：588170走势如何
+
+请只返回搜索关键词，不要其他内容。...
+2026-02-01 22:59:47 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 22:59:47 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 6, 预览: 588170
+2026-02-01 22:59:47 - FeishuBot - INFO - 准备发送消息，长度: 16, 内容预览: 正在搜索: 588170走势如何
+2026-02-01 22:59:48 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:59:48 - WebBrowser - INFO - 执行搜索: 588170走势如何 (引擎: baidu)
+2026-02-01 22:59:48 - WebBrowser - INFO - 搜索完成，找到 5 个结果
+2026-02-01 22:59:48 - FeishuBot - INFO - 准备发送消息，长度: 60, 内容预览: 正在获取第 1 条结果: ...ETF华夏(588800)收涨1.11%、科创半导体ETF(5881
+2026-02-01 22:59:49 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:59:49 - WebBrowser - INFO - 获取页面: http://www.baidu.com/link?url=DcPot3xBSYcOw8woavKiZaHqcyEM4eKaCBpoy3iM_-_IVG0v8Z9Ys5SuTijxLgKhfwG1f0k_m_Q3VzAV1RktC_
+2026-02-01 22:59:50 - FeishuBot - INFO - 准备发送消息，长度: 56, 内容预览: 正在获取第 2 条结果: ETF 收评 | 震荡整理中,科创半导体ETF(588170)、半导体设备
+2026-02-01 22:59:50 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:59:50 - WebBrowser - INFO - 获取页面: http://www.baidu.com/link?url=dyUDS3rpw5jcogx3zhjop3dMZb1iKLrIUXOZs_bzdkXbvAZc3s3ipTrz2OCFLJcmI-KtF7E5LcFxv-ABGS0fv_
+2026-02-01 22:59:52 - FeishuBot - INFO - 准备发送消息，长度: 56, 内容预览: 正在获取第 3 条结果: ETF 收评 | 震荡整理中,科创半导体ETF(588170)、半导体设备
+2026-02-01 22:59:53 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 22:59:53 - WebBrowser - INFO - 获取页面: http://www.baidu.com/link?url=_CP5-68Zow1HB2urkL7t9qJ1zlKQ45KAIRWk4_QuoykKSfbcKkOcYELeTQFNnCyA4NXS61OFplBsX9aXp7ZZlq
+2026-02-01 22:59:54 - ClaudeClient - INFO - 执行Claude Code命令: 请根据以下搜索结果，整理并回答用户的问题：
+用户问题：588170走势如何
+
+搜索结果：
+[
+  {
+    "title": "...ETF华夏(588800)收涨1.11%、科创半导体ETF(58...
+2026-02-01 23:00:03 - ClaudeClient - INFO - Claude JSON输出结构: ['type', 'subtype', 'is_error', 'duration_ms', 'duration_api_ms', 'num_turns', 'result', 'session_id', 'total_cost_usd', 'usage', 'modelUsage', 'permission_denials', 'uuid']
+2026-02-01 23:00:03 - ClaudeClient - INFO - Claude Code执行成功, 内容长度: 536, 预览: ## 科创半导体ETF（588170）走势分析
+
+### 近期表现
+
+| 日期 | 涨跌幅 | 最新报价 |
+|------|--------|----------|
+| 2025-12-05 | +
+2026-02-01 23:00:03 - FeishuBot - INFO - 准备发送消息，长度: 1357, 内容预览: ## 科创半导体ETF（588170）走势分析
+
+### 近期表现
+
+| 日期 | 涨跌幅 | 最新
+2026-02-01 23:00:04 - FeishuBot - INFO - 消息发送成功: chat_id=oc_43a6c29f82126fb41c9f5444db36d28a
+2026-02-01 23:00:04 - AgentOrchestrator - INFO - 任务执行结果 - 成功: True
+2026-02-01 23:00:04 - AgentOrchestrator - INFO - 更新后的对话历史长度: 2
+2026-02-01 23:00:04 - AgentOrchestrator - INFO - ============================================================
+2026-02-01 23:01:08 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 23:01:08 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 23:01:09 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 23:01:09 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 23:01:09 - Main - INFO - 收到停止信号，正在关闭...
+2026-02-01 23:01:22 - FeishuBot - INFO - WebSocket客户端被取消
+2026-02-01 23:01:22 - AgentOrchestrator - INFO - 停止AI Agent...
+2026-02-01 23:01:22 - FeishuBot - INFO - 停止飞书WebSocket客户端
+2026-02-01 23:01:22 - Main - INFO - 程序已关闭
